@@ -5,7 +5,7 @@
   <controls>
     <control type="group">
       <posx>578</posx>
-      <posy>105</posy>
+      <posy>5</posy>
       <control type="image">
         <posx>130</posx>
 		<width>503</width>

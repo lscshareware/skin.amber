@@ -14,9 +14,4 @@
     <summary>designed by Pećinko</summary>
     <description>Amber offers nice, fast and simple to use interface. Based mostly on Aeon/Aeon Nox and Mediastream textures.</description>
   </extension>
-        <extension point="xbmc.addon.repository" name="XBIAN Addons">
-            <info compressed="false">http://ivka57.dyndns-ip.com/xbian-xbmc-repository/addons.xml</info>
-            <checksum>http://ivka57.dyndns-ip.com/xbian-xbmc-repository/addons.xml.md5</checksum>
-            <datadir zip="false">http://ivka57.dyndns-ip.com/xbian-xbmc-repository</datadir>
-        </extension>
 </addon>
